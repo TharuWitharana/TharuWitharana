@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharuwitharana&label=Profile%20views&color=0e75b6&style=flat" alt="tharuwitharana" /> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working as Associate Software Engineer at **Global Wavenet**
 
 - 🌱 I’m currently learning **mobile application development and DevOps**
 
