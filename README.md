@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as Associate Software Engineer at **Global Wavenet**
 
-- 🌱 I’m currently learning **mobile application development and DevOps**
+- 🌱 I’m currently learning **Web development, AI/ML application development and DevOps**
 
 - 📝 I regularly write articles on [https://medium.com/@tharushiwitharana](https://medium.com/@tharushiwitharana)
 
