@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@tharushiwitharana](https://medium.com/@tharushiwitharana)
 
-- 💬 Ask me about **MERN Stack, Flutter, DevOps**
+- 💬 Ask me about **MERN Stack, AI/ML, DevOps**
 
 - 📫 How to reach me **tharushiwitharana@gmail.com**
 
